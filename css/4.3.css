@@ -1,0 +1,19 @@
+.section-carousel {
+  background-image: url(img/carousel.jpg);
+}
+
+.section-block {
+  background-image: url(img/block.jpg);
+}
+
+.section-vertical {
+  background-image: url(img/vertical.jpg);
+}
+
+.section-reviews {
+  background-image: url(img/reviews.jpg);
+}
+
+.section-footer {
+  background-image: url(img/footer.jpg);
+}

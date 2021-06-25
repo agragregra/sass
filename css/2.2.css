@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.selector {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  content: "content";
+}
+
+.interpol {
+  content: "интерполяция";
+}

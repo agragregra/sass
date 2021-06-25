@@ -1,0 +1,32 @@
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body.firefox a {
+  font-weight: normal;
+}
+
+#main {
+  color: black;
+}
+
+#main a {
+  font-weight: bold;
+}
+
+#main a:hover {
+  color: red;
+}
+
+#main {
+  color: black;
+}
+
+#main-sidebar {
+  border: 1px solid;
+}

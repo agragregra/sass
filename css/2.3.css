@@ -1,0 +1,14 @@
+body {
+  background-color: #990709;
+  color: #020406;
+  border-color: rgba(200, 255, 0, 0.75);
+}
+
+p {
+  color: rgba(255, 0, 0, 0.8);
+  background-color: rgba(255, 0, 0, 0.25);
+}
+
+.selector {
+  background-color: rgba(51, 51, 51, 0.75);
+}

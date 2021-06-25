@@ -1,0 +1,13 @@
+.item-type-one, .item-type-two {
+  display: inline-block;
+  transition: all .5s ease;
+  max-width: 320px;
+}
+
+.item-type-one {
+  margin-top: 20px;
+}
+
+.item-type-two {
+  margin-top: 10px;
+}

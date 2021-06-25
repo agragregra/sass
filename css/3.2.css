@@ -1,0 +1,11 @@
+.selector {
+  margin-top: 10px;
+}
+
+.item {
+  background-color: #ccc;
+}
+
+.selector .item {
+  background-color: #fff;
+}
