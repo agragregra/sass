@@ -1,6 +1,6 @@
-.item-type-one, .item-type-two {
+.item-type-two, .item-type-one {
   display: inline-block;
-  transition: all .5s ease;
+  transition: all 0.5s ease;
   max-width: 320px;
 }
 
