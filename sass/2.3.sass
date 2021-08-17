@@ -1,13 +1,12 @@
 @use 'sass:math'
+@use 'sass:color'
 
-$color1: #440203 + #550506
-$color2: #010203 * 2
-$color3: rgba(180, 0, 0, .75) + rgba(20, 255, 0, .75)
+$color1: color.mix(#440203, #550506)
+$color2: color.mix(rgba(180, 0, 0, .75), rgba(20, 255, 0, .75))
 
 body
 	background-color: $color1
 	color: $color2
-	border-color: $color3
 
 
 $translucent-red: rgba(255, 0, 0, 0.5)
